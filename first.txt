@@ -2,3 +2,4 @@ Gitnoの練習をしています。
 変更
 ・git add
 ・git commit
+・git rm
